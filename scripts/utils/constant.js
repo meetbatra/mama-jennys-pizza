@@ -1,0 +1,1 @@
+export const URL = "https://raw.githubusercontent.com/meetbatra/MJP-api/refs/heads/main/pizzas.json"
